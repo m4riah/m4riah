@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/m4riah">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=m4riah&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4riah&layout=compact&langs_count=7&theme=flag-india"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=m4riah&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4riah&layout=compact&langs_count=7&theme=flag-india"/>
 </div>
 
 <div> 
