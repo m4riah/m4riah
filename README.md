@@ -2,16 +2,6 @@
 ![Hi](https://github.com/m4riah/m4riah/assets/97889961/ebcde00b-1df2-47a7-a318-4dceed88e733)
 
 <div style="display: flex; justify-content: center;">
-  <a href="https://github.com/m4riah">
-    <img src="https://github-readme-stats.vercel.app/api?username=m4riah&bg_color=30,F0ABBD,D1B3CF,AFBFE0&title_color=fff&text_color=fff" style="width: 445px; height: auto;" alt="99's Github Stats">
-  </a>
-  <a href="https://github.com/m4riah">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4riah&layout=compact&langs_count=7&theme=default&bg_color=30,F0ABBD,D1B3CF,AFBFE0&title_color=fff&text_color=fff" style="width: 350px; height: auto;" alt="Linguagens">
-  </a>
-</div>
-<br>
-
-<div style="display: flex; justify-content: center;">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
@@ -26,6 +16,13 @@
 </div>
 
 
-
+<div style="display: flex; justify-content: center;">
+  <a href="https://github.com/m4riah">
+    <img src="https://github-readme-stats.vercel.app/api?username=m4riah&bg_color=30,F0ABBD,D1B3CF,AFBFE0&title_color=fff&text_color=fff" style="width: 445px; height: auto;" alt="99's Github Stats">
+  </a>
+  <a href="https://github.com/m4riah">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4riah&layout=compact&langs_count=7&theme=default&bg_color=30,F0ABBD,D1B3CF,AFBFE0&title_color=fff&text_color=fff" style="width: 350px; height: auto;" alt="Linguagens">
+  </a>
+</div>
 
 ![snake gif](https://github.com/m4riah/m4riah/blob/output/github-contribution-grid-snake.svg)
