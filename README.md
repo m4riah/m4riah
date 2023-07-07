@@ -1,5 +1,5 @@
- 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C9E9EB&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Maria+Eduarda;I'm+21+years+old;I+from+Recife,+PE;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+![Hi](https://github.com/m4riah/m4riah/assets/97889961/ebcde00b-1df2-47a7-a318-4dceed88e733)
 
 <div align="center">
   <a href="https://github.com/m4riah">
