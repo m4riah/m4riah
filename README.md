@@ -17,7 +17,7 @@
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-[![](https://visitcount.itsvg.in/api?id=m4riah&icon=5&color=11)](https://visitcount.itsvg.in)
+  <img src="https://komarev.com/ghpvc/?username=m4riah&style=flat-square&color=green" alt=""/>
 </div>
 
 ![snake gif](https://github.com/m4riah/m4riah/blob/output/github-contribution-grid-snake.svg)
