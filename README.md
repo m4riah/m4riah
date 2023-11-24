@@ -18,10 +18,8 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
-  <img src="https://komarev.com/ghpvc/?username=m4riah&style=flat-square&color=green" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=m4riah&style=flat-square&color=green" alt=""/>
 </div>
-
-![snake gif](https://github.com/m4riah/m4riah/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <a href="https://github.com/m4riah">
