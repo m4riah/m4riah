@@ -1,4 +1,4 @@
-# 💜 Olá, eu sou a Maria!
+# 💙 Olá, eu sou a Maria!
 <p align="left">
   Desenvolvedora em formação, apaixonada por criar soluções modernas, funcionais e com propósito.
 Tenho direcionado meus estudos para o desenvolvimento full-stack, buscando transformar cada aprendizado em projetos práticos e relevantes. 
