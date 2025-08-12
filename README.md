@@ -1,4 +1,4 @@
-# 💙 Olá, eu sou a Maria!
+# 💗 Olá, eu sou a Maria!
 <p align="left">
   Desenvolvedora em formação, apaixonada por criar soluções modernas, funcionais e com propósito.
 Tenho direcionado meus estudos para o desenvolvimento full-stack, buscando transformar cada aprendizado em projetos práticos e relevantes. 
@@ -18,6 +18,8 @@ Tenho direcionado meus estudos para o desenvolvimento full-stack, buscando trans
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/m4riah/m4riah/output/pacman-contribution-graph.svg">
 </picture>
 
+###
+---
 
 ## ⭐ GitHub Stats
   <a href="https://github.com/m4riah">
@@ -28,3 +30,13 @@ Tenho direcionado meus estudos para o desenvolvimento full-stack, buscando trans
   </a>
 
 
+
+## Tecnologias e linguagens 💻
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,python,php)](https://skillicons.dev)
+
+### 🚀 Frameworks e bibliotecas
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,spring)](https://skillicons.dev)
+
+### 🛠️ Ferramentas de desenvolvimento
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode)](https://skillicons.dev)
